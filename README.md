@@ -1,2 +1,3 @@
 # CodeUploadTEST
-a repository to test with VS Code
+this is a test read me file 
+
